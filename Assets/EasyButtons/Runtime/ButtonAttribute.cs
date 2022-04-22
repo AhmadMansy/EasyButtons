@@ -15,7 +15,8 @@
     {
         None = 0,
         Before = 1,
-        After = 2
+        After = 2,
+        All
     }
 
     /// <summary>
